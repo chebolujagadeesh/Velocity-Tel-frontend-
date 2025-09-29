@@ -1,1 +1,160 @@
-
+{
+  "plans": [
+    {
+      "id": "plan-1",
+      "name": "Gaming Pro Plan",
+      "price": 112,
+      "originalPrice": 150,
+      "duration": "12 months",
+      "category": "gaming",
+      "description": "Unlimited 15GB/Month for gamers. Ultra-fast speeds for streaming and gaming.",
+      "features": [
+        "Unlimited Nationwide Talk & Text",
+        "15GB High-Speed Data",
+        "Gaming Optimized Network",
+        "No Contracts Required",
+        "5G Network Access"
+      ],
+      "offer": "25% OFF",
+      "popular": true,
+      "image": "gaming"
+    },
+    {
+      "id": "plan-2", 
+      "name": "Family Unlimited",
+      "price": 89,
+      "originalPrice": 120,
+      "duration": "per month",
+      "category": "family",
+      "description": "Perfect family plan with unlimited everything for up to 4 lines.",
+      "features": [
+        "Unlimited Talk, Text & Data",
+        "4 Lines Included",
+        "Mobile Hotspot 10GB",
+        "International Calling",
+        "Parental Controls"
+      ],
+      "offer": "Family Special",
+      "popular": false,
+      "image": "family"
+    },
+    {
+      "id": "plan-3",
+      "name": "Business Elite",
+      "price": 75,
+      "originalPrice": 100,
+      "duration": "per line/month",
+      "category": "business",
+      "description": "Premium business solution with priority network access and support.",
+      "features": [
+        "Priority Network Access",
+        "Unlimited Premium Data",
+        "24/7 Business Support",
+        "Cloud Storage 100GB",
+        "Enterprise Security"
+      ],
+      "offer": "Business Save",
+      "popular": false,
+      "image": "business"
+    },
+    {
+      "id": "plan-4",
+      "name": "Student Special",
+      "price": 45,
+      "originalPrice": 65,
+      "duration": "per month",
+      "category": "student",
+      "description": "Affordable plan designed for students with education perks.",
+      "features": [
+        "8GB High-Speed Data",
+        "Unlimited Talk & Text",
+        "Student Discount Applied",
+        "Educational App Access",
+        "Study Mode Features"
+      ],
+      "offer": "Student Discount",
+      "popular": false,
+      "image": "student"
+    }
+  ],
+  "esims": [
+    {
+      "id": "esim-1",
+      "name": "Travel eSIM Global",
+      "price": 29,
+      "originalPrice": 45,
+      "duration": "30 days",
+      "category": "travel",
+      "description": "Global eSIM for international travelers with worldwide coverage.",
+      "features": [
+        "150+ Countries Coverage",
+        "5GB International Data",
+        "Instant Activation",
+        "No Physical SIM Required",
+        "24/7 Travel Support"
+      ],
+      "offer": "Travel Deal",
+      "popular": true,
+      "image": "travel"
+    },
+    {
+      "id": "esim-2",
+      "name": "Business eSIM Pro",
+      "price": 55,
+      "originalPrice": 75,
+      "duration": "per month",
+      "category": "business",
+      "description": "Professional eSIM solution for business travelers and remote workers.",
+      "features": [
+        "Global Business Coverage",
+        "15GB Premium Data",
+        "Virtual Phone Numbers",
+        "Enterprise Management",
+        "Priority Customer Service"
+      ],
+      "offer": "Pro Savings",
+      "popular": false,
+      "image": "business-travel"
+    }
+  ],
+  "accessories": [
+    {
+      "id": "acc-1",
+      "name": "SIM Card Starter Kit",
+      "price": 15,
+      "originalPrice": 25,
+      "duration": "one-time",
+      "category": "accessories",
+      "description": "Complete SIM card kit with all sizes and activation guide.",
+      "features": [
+        "Nano, Micro, Standard SIM",
+        "SIM Ejector Tool",
+        "Activation Guide",
+        "Customer Support",
+        "Quick Setup"
+      ],
+      "offer": "Starter Deal",
+      "popular": false,
+      "image": "sim-kit"
+    },
+    {
+      "id": "acc-2",
+      "name": "Premium SIM Replacement",
+      "price": 10,
+      "originalPrice": 20,
+      "duration": "one-time",
+      "category": "accessories", 
+      "description": "Replace damaged or lost SIM cards with overnight shipping.",
+      "features": [
+        "Overnight Shipping",
+        "Number Transfer",
+        "Same Day Processing",
+        "Technical Support",
+        "Damage Protection"
+      ],
+      "offer": "Fast Service",
+      "popular": false,
+      "image": "sim-replacement"
+    }
+  ]
+}
